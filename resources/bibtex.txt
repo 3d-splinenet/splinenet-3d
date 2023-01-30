@@ -1,6 +1,7 @@
-@inproceedings{author20XXtitle,
-  title={Please cite me},
-  author={Author, First and Author, Second and Author, Third},
-  booktitle={Conference},
-  year={20XX}
+@inproceedings{pittner20233d,
+  title={3D-SpLineNet: 3D Traffic Line Detection Using Parametric Spline Representations},
+  author={Pittner, Maximilian and Condurache, Alexandru and Janai, Joel},
+  booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
+  pages={602--611},
+  year={2023}
 }
